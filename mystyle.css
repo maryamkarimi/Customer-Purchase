@@ -1,0 +1,49 @@
+
+table, th, td {
+   border: 1px solid grey;
+   border-collapse: collapse;
+   padding: 4px;
+   background-color: #ecf7f9;
+}
+
+th {
+   background-color: PowderBlue;
+}
+
+caption {
+   font-style: bold;
+   font-size: 20px;
+   margin: 5px;
+}
+
+.bodytext{
+   font-size: 20px;
+   margin: 5px;
+}
+
+head, body{
+   background: white
+   text-align: center;
+   font-family: 'KoHo', sans-serif;
+}
+
+h1 {
+   color: Teal;
+   text-align: center;
+}
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  justify-content: center;
+}
+
+.box {
+  margin: 10px;
+  border: 1px solid black;
+  padding: 10px; 
+  box-shadow: 5px 5px 2px grey;  
+}
+
+
